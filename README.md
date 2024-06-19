@@ -13,6 +13,7 @@ npm run build
 # Compile Tailwind CSS minified
 npm run build-minify
 
+<video controls src="SDF011-Presentation Clip.mp4" title="></video>
 ```
 
 # Presentation Talking Points and Presentation Slide Template
