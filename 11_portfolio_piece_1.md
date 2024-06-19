@@ -46,3 +46,4 @@ Presentation Slides Template: https://docs.google.com/presentation/d/1MTiIdjlDYy
 **Talking Points:**
 - Reflect on the project's objectives and how they were achieved through each component.
 - Reflect on the technical skills and knowledge gained through working on the project.
+
